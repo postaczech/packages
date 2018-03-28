@@ -2,7 +2,5 @@
   "name": "postaczech/packages",
   "require": {
     "postaczech/packages": "1.0.0"
-  },
-  "minimum-stability":"dev",
-  "prefer-stable": true
+  }
 }
