@@ -18,15 +18,5 @@
         "files": [
             "src/helpers.php"
         ]
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Friede\\Packages\\DateFormaterProvider"
-            ],
-            "aliases": {
-                "DateFormater": "Friede\\Packages\\DateFormaterFacade"
-            }
-        }
     }
 }
