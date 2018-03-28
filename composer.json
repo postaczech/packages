@@ -1,6 +1,16 @@
 {
-  "name": "postaczech/packages",
-  "require": {
-    "postaczech/packages": "1.0.0"
-  }
+    "name": "postaczech/packages",
+    "description": "Packages for Laravel 5.6",
+    "type": "project",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Friede Petr",
+            "email": "friede.petr@centrum.cz"
+        }
+    ],
+    "minimum-stability": "dev"
 }
