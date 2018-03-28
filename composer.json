@@ -3,7 +3,7 @@
     "description": "Packages for Laravel 5.6",
     "type": "project",
     "require": {
-        "postaczech/packages": "1.0.1"
+        "postaczech/packages": "dev-master"
     },
     "license": "MIT",
     "authors": [
