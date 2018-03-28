@@ -1,16 +1,17 @@
 {
     "name": "postaczech/packages",
-    "description": "Packages for Laravel 5.6",
-    "type": "project",
-    "require": {
-        "postaczech/packages": "dev-master"
-    },
+    "type": "library",
+    "description" : "Extension for Laravel 5.6",
     "license": "MIT",
     "authors": [
         {
-            "name": "Friede Petr",
-            "email": "friede.petr@centrum.cz"
-        }
+            "name" : "Friede Petr",
+            "email" : "fride.petr@centrum.cz",
+         }
     ],
-    "minimum-stability":"dev"
+    "autoload": {
+        "psr-4": {
+            "Friede\\Packages\\": "src"
+        }
+    }
 }
