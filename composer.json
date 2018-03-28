@@ -13,6 +13,5 @@
         "psr-4": {
             "Friede\\": "src"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
